@@ -1,0 +1,15 @@
+==================================================
+        WEATHER ANALYTICS REPORT
+==================================================
+
+Generated On : 01-07-2026 19:37:27
+
+Total Records       : 12
+Average Temperature : 28.34 °C
+Maximum Temperature : 41.5 °C
+Minimum Temperature : 21.1 °C
+Average Humidity    : 62.42 %
+Average Wind Speed  : 7.06 km/h
+Maximum Wind Speed  : 14.0 km/h
+Most Common Weather : Overcast
+Most Searched City  : Indore

@@ -31,3 +31,6 @@ WEATHER_CODES = {
 
 def get_weather_description(code):
     return WEATHER_CODES.get(code, "Unknown")
+
+def forecast_weather_description(code):
+    return WEATHER_CODES.get(code, "Unknown")
